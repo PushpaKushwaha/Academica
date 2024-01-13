@@ -1,0 +1,44 @@
+.priceCard{
+    margin-bottom: 120px;
+    margin-top: 70px;
+
+}
+.box3{
+    background-color: #fff;
+    padding: 50px 30px;
+}
+.box3 h2 span{
+    color: #000;
+    font-size: 20px;
+    margin-right: 10px;
+}
+.box3 h2{
+color:  #1eb2a6;
+font-size: 50px;
+margin: 20px 0;
+}
+.box3 p{
+    color: grey;
+    margin: 40px 0;
+}
+
+.accordion-button.collapsed{
+    font-size: 23px;
+    padding: 20px 10px;
+    color: #1eb2a6;
+}
+.accordion-button.collapsed:hover{
+    background-color: #1eb2a6;
+    cursor: pointer;
+    color: #fff;
+}
+.accordion-body{
+    font-size: 23px;
+}
+.accordion-button{
+    font-size: 23px;
+}
+.accordion-button:hover{
+    background-color: #1eb2a6;
+    color: #fff;
+}

@@ -1,0 +1,43 @@
+.teamCard .box2{
+    background: #fff;
+    /* padding-bottom: 20px; */
+    margin-bottom: 30px;
+}
+.detail {
+    padding: 30px;
+}
+.detail h2{
+    font-size: 20px;
+    font-weight: 500;
+    transition: 0.5s;
+}
+.detail p{
+    font-size:16px ;
+    color: grey;
+    transition: 0.5s;
+    margin-top: 10px;
+}
+.overlay{
+    opacity: 0;
+}
+.overlay i {
+    background-color: #000;
+    color: #fff;
+    margin: 5px;
+    transition: 0.5s;
+  }
+.teamCard .box2:hover{
+    background: #1eb2a6;
+    color: #fff;
+}
+.teamCard .box2:hover p{
+    color: #fff;
+}
+.teamCard .box2:hover .overlay {
+    opacity: 1;
+    color: #fff;
+}
+.teamCard .box2:hover .overlay i:hover {
+    background-color: #fff;
+    color: #1eb2a6;
+  }

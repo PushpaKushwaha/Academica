@@ -1,0 +1,43 @@
+.box4{
+    margin-top: 50px;
+}
+
+.box4{
+    background-color: #fff;
+    padding: 40px 30px;
+}
+
+.testimonal .img img{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+
+.Flexbox .name{
+    margin: 25px;
+}
+.Flexbox h2{
+    font-size: 20px;
+    transition: 0.5s;
+}
+.Flexbox span{
+    color: #1eb2a6;
+    font-weight: 500;
+    transition: 0.5s;
+}
+.box4 p{
+    font-size: 20px;
+    color: grey;
+    transition: 0.5s;
+}
+.testimonal .box4:hover  {
+    background-color: #1eb2a6;
+    color: #fff;
+    cursor: pointer;
+  }
+  .testimonal .box4:hover p,
+  .testimonal .box4:hover span{
+    color: #fff;
+  }
+
+ 

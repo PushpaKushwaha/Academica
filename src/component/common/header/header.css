@@ -1,0 +1,37 @@
+.head{
+    /* color:#fff; */
+    color: #1eb2a6;
+    
+}
+.top{
+    /* background-color: #B0D3DA; */
+    background-color: #B0D3DA;
+   
+}
+.head h1{
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.navbar-nav .nav-link.active{ 
+    /* color: #fff; */
+    color: #1eb2a6;
+}
+.navbar-nav .nav-link.active:hover{
+color: #fff;
+background: #1eb2a6;
+}
+.bg-body-tertiary{
+    /* background-color: rgba(255, 255, 255, 0.2) !important; */
+    margin: 0 30px;
+}
+.container-fluid  .fw-bold{
+    margin: 0 !important;
+}
+/* .text-light{
+    
+     color: #1eb2a6 !important;
+} */
+.navbar-brand.text-light{
+    color:#1eb2a6 !important;
+}

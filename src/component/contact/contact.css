@@ -1,0 +1,44 @@
+.contacts iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+.contacts h2 {
+    font-size: 30px;
+    font-weight: 400;
+  }
+
+.contacts p {
+    font-size: 17px;
+    color: grey;
+  }
+  .contacts h3 {
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .contacts form input{
+    padding: 10px 20px;
+    width: 100%;
+    margin: 10px 0;
+    border: 1px solid grey;
+  }
+  .contacts form textarea{
+    padding: 10px 20px;
+    width: 100%;
+    margin: 10px 0;
+    border: 1px solid grey;
+  }
+  .contacts span{
+    color: #1eb2a6;
+    font-weight: 600;
+    font-size: 15px;
+    word-spacing: 5px;
+  }
+  .contacts .Fbtn{
+    color: #fff;
+    font-size: 20px;
+    margin: 18px 0;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+  }

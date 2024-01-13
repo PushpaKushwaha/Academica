@@ -1,0 +1,26 @@
+.hero{
+    background-color: #638E99;
+}
+
+.title{
+    font-size: 50px;
+    color: #fff;
+    font-weight: 800;
+}
+.Fbtn{
+    background: #1eb2a6;
+    color: #fff;
+    padding: 20px;
+    margin-right: 10px;
+    border: 2px solid #fff;
+}
+.Sbtn{
+    color: #1eb2a6;
+    padding: 20px;
+    border: 3px solid #1eb2a6;
+    
+}
+button i {
+    margin-left: 20px;
+  }
+
